@@ -1,3 +1,3 @@
 # html-website
 
-https://tayleee.github.io/html-website/
+https://patrykdurda.github.io/html-website/
